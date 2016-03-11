@@ -1,5 +1,4 @@
 FROM nvidia/cuda:7.0-runtime
-
 MAINTAINER Yu You <yu.you@nokia.com>
 
 ENV BLENDER_MAJOR 2.76
